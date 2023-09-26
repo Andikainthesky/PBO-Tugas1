@@ -1,4 +1,6 @@
-public class Main {
+package belajar.Java;
+
+public class Tipedata{
     public static void main(String[] args){
 
         String nama = "Andika Prayitno";
