@@ -22,7 +22,7 @@ public class Array1D {
         //Hasil output Ke 1
         System.out.println("Nama Anaka Kedua : " + nama[1]);
         //Hasil output ke 2
-        System.out.println("Nama Anak Ketiga : " + nama[2]);A
+        System.out.println("Nama Anak Ketiga : " + nama[2]);
         //Hasil output ke 3
 
     }
